@@ -30,7 +30,7 @@ This project helped me practice user input/output, mathematical operations, and 
 
 This repository serves as a personal learning log — a place where I experiment, make mistakes, learn from them, and grow as a C++ programmer.
 
-🧰 Tech Used- VS CODE
+🧰 Tech Used-
 
 Language: C++
 
